@@ -1,4 +1,4 @@
-# Store Managemetn System
+# Store management System
 
 **About this Project:**
 
